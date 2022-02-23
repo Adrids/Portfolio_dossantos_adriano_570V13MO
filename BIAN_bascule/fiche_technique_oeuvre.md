@@ -22,16 +22,14 @@ Montréal (Québec, Canada)
 Bascule est une sculpture cinétique qui répond aux données. Contrôle par ordinateur, ce métronome oscille au rythme d'une statistique précise. Le noeud se balance ici au rythme de la fréquence des homicides par armes à Amérique du Nord soit environ toutes les 10 à 15 secondes. (Source: Cartel de l'oeuvre)
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer):
+L'oeuvre est placée dans une petite salle avec d'autres oeuvres du même artiste et ils sont tous répartis pour faire en sois que les oeuvres soient bien visibles.
 
+## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...):
+Corde, acier, composantes électroniques, moteur, plateforme arduino, language de programmation Wiring. (Source: Cartel de l'oeuvre)
 
-## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...): 
-
-## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...): 
+## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...):
+Rallonge élecrtique
 
 ## Expérience vécue:
 
-*
-*
-*
-
-## Références: 
+* Les statistiques de l'oeuvre m'ont surprises
